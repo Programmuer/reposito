@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ,vcm .c,mv ,cm,.cm bulba
+=======
+,vcm .c,mv ,cm,.cm bu
+>>>>>>> hotfix
